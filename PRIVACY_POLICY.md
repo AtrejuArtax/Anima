@@ -1,4 +1,4 @@
-Anima: Privacy policy
+## Anima: Privacy policy
 Welcome to the Anima app for Android!
 
 This is an Android app developed by Claudi Ruiz Camps. The app is available on Google Play.
